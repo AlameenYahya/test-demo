@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="application/javascript; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>E Commerce</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+   <section id="header">
+       <a href="#"><img src="img/logoo/ayh store1.svg" class="logo" alt="" >  </a>
+       
+       <div>
+           <ul id="navbar">
+               <li> <a class="active" href="index.html">Home</a></li>
+               <li> <a href="shop.html">Shop</a></li>
+               <li> <a href="blog.html">Blog</a></li>
+               <li> <a href="about.html">About</a></li>
+               <li> <a href="contact.html">Contact</a></li>
+               <li id="lg-bag"> <a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+                <a href="#" id="close"><i class="far fa-times"></i></a>
+           </ul>
+       
+           
+       </div>
+       <div id="mobile">
+              <a href="cart.html"><i class="fa fa-shopping-bag"></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+       </div>
+    
+    </section>
+
+    <section id="hero">
+    
+    <h4>Trade-in-offer</h4>
+        <h2>Super value deals</h2>
+        <h1>On all products</h1>
+        
+        <p>Save more with coupons &amp; up to 70% off! </p>
+        <button>Shop Now</button>
+    
+    </section>
+    <section id="feature" class="section-p1">
+        
+        <div class="fe-box">
+        <img src="img/logoo/driverless-car-delivering-groceries-ikon-images.jpg"  alt="" >
+            <h6>Free Shipping</h6>
+        </div>
+         <div class="fe-box">
+        <img src="img/logoo/1-silhouette-of-woman-and-cart-csa-images.jpg"  alt="">
+            <h6>Online Order</h6>
+        </div>
+         <div class="fe-box">
+        <img src="img/logoo/7-shopping-cart-csa-images.jpg"  alt="">
+            <h6>Save Money</h6>
+        </div>
+         <div class="fe-box">
+        <img src="img/logoo/robot-filling-shopping-basket-ikon-images.jpg"  alt="">
+            <h6>Promotion</h6>
+        </div>
+         <div class="fe-box">
+        <img src="img/logoo/1-man-driving-cart-csa-images.jpg"  alt="">
+            <h6>Happy Sell</h6>
+        </div>
+         <div class="fe-box">
+        <img src="img/logoo/cardboard-box-house-containing-grocery-ikon-images.jpg"  alt="" >
+            <h6>F24/7 Support</h6>
+        </div>
+        
+    </section>
+    
+    <section id="product1" class="section-p1">
+        <h2>Featured Products</h2>
+        <p>Summer Collection New Morden Design</p>
+        <div class="pro-container">
+        <div class="pro">
+            <img src="img/logoo/1-budweiser-clydesdales-in-san-antonio-l-o-c.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Cartoon Astronaut T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$78</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/driverless-car-delivering-groceries-ikon-images%20(2).jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>For Women T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$50</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/all-you-need-is-love-balazs-solti-transparent.jpeg" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Love balazas T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$69</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/cute-cartoon-giraffe-couple-in-love-purple-edition-philipp-rietz-transparent.jpeg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Cartoon Giraffe T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$48</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/cryptocurrency-circuitry-jorgo-photography-wall-art-gallery.jpg" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Crypto currency T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$78</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/co-cork-eyeries-village-in-the-rain-the-irish-image-collection-.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>eyeries village T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$68</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/computers-packaging-and-businessmen-csa-images.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Hoodie T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$88</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/budweiser-clydesdales-in-san-antonio-l-o-c.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Budwiser T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$98</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+        </div>
+    </section>
+    
+    <section id="banner" class="section-m1">
+    <h4>Repair Services</h4>
+        <h2>Up to <span>70% Off</span>-All T-shirts &amp; Accessories </h2>
+        <button class="normal">Explore More</button>
+    </section>
+    
+    <section id="product1" class="section-p1">
+        <h2>New Arrivals</h2>
+        <p>Summer Collection New Morden Design</p>
+        <div class="pro-container">
+        <div class="pro">
+            <img src="img/logoo/1-budweiser-clydesdales-in-san-antonio-l-o-c.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Cartoon Astronaut T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$78</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/driverless-car-delivering-groceries-ikon-images%20(2).jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>For Women T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$50</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/all-you-need-is-love-balazs-solti-transparent.jpeg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Love balazas T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$69</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/cute-cartoon-giraffe-couple-in-love-purple-edition-philipp-rietz-transparent.jpeg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Cartoon Giraffe T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$48</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/cryptocurrency-circuitry-jorgo-photography-wall-art-gallery.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Crypto currency T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$78</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/co-cork-eyeries-village-in-the-rain-the-irish-image-collection-.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>eyeries village T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$68</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/computers-packaging-and-businessmen-csa-images.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Hoodie T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$88</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+            <div class="pro">
+            <img src="img/logoo/budweiser-clydesdales-in-san-antonio-l-o-c.jpg"  alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Budwiser T-Shirt</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                     <i class="fas fa-star"></i>
+                </div>
+                <h4>$98</h4>
+            </div>
+            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+        </div>
+    </section>
+    
+    <section id="sm-banner" class="section-p1">
+        <div class="banner-box">
+        <h4>crazy deals</h4>
+            <h2>Buy 1 get 1 free</h2>
+            <span>The best classic dress is on sale cara </span>
+            <button class="white">Learn More</button>
+        </div>
+        <div class="banner-box banner-box2">
+        <h4>Spring/Summer</h4>
+            <h2>Upcoming Season</h2>
+            <span>The best classic dress is on sale cara </span>
+            <button class="white">Collection</button>
+        </div>
+    </section>
+    
+    <section id="banner3">
+     <div class="banner-box">
+            <h2>SEASONAL SALE</h2>
+         <h3>Winter Collection -50% OFF</h3>
+        </div>
+         <div class="banner-box banner-box2">
+            <h2>T-SHIRTS</h2>
+         <h3>New Trendy Prints</h3>
+        </div>
+         <div class="banner-box banner-box3">
+          <h2>NEW FOOTWEAR COLLECTION</h2>
+         <h3>Spring/Summer 2023</h3>
+        </div>
+    </section>
+    
+    <section id="newsletter" class="section-p1 section-m1">
+     <div class="newstext">
+        <h4>Sign Up For Newsletters</h4>
+         <p>Get E-mail updates about our latest shop and <span>special offers</span></p>
+        </div>
+        <div class="form">
+         <input type="text" id="text" placeholder="Your email address">
+            <button class="normal">Sign Up</button>
+        </div>
+    </section>
+    
+    <footer class="section-p1">
+        <div class="col">
+        <img  class="logo"src="img/logoo/ayh store1.svg"  alt="">
+            <h4>Contact</h4>
+            <p><strong>Address:</strong>26 Arochukwu street, BUK Old site, Kano</p>
+              <p><strong>Phone:</strong>+2348165350095 /+2348141174853</p>
+              <p><strong>Hours:</strong>10:00 - 18:00 Mon - Fri</p>
+            <div class="follow">
+                <h4>Follow us</h4>
+                <div class="icon">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-pinterest-p"></i>
+                    <i class="fab fa-youtube"></i>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <h4>About</h4>
+            <a href="#">About us</a>
+            <a href="#">Delivery Information</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms &amp; Conditions</a>
+            <a href="#">Contact Us</a>
+        </div>
+        
+         <div class="col">
+            <h4>My Account</h4>
+            <a href="#">Sign In</a>
+            <a href="#">View Cart</a>
+            <a href="#">My Wishlist</a>
+            <a href="#">Track My Order</a>
+            <a href="#">Help</a>
+        </div>
+        
+        <div class="col install">
+            <h4>Install App</h4>
+            <p>From App Store or Google Play</p>
+            <div class="row">
+                <img src="img/logoo/cart-full-of-groceries-csa-images.jpg"  alt="">
+                <img src="img/logoo/1-cart-full-of-groceries-csa-images.jpg"  alt="">
+            </div>
+             <p>Secure Payment Gateways </p>
+            <div class="payment">
+                <img  src="img/logoo/Untitled%20design.png"  alt="">
+            </div>
+        </div>
+        
+        <div class="copyright">
+        <p>&copy;2023, Tech2 etc - HTML CSS Ecommerce Template</p>
+        </div>
+    </footer>
+    
+    <script src="Script.js"></script>
+    
+</body>
+    
+</html>
