@@ -123,7 +123,7 @@ body {
 }
 
 #hero {
-    background-image: url(img/logoo/season%20finale%202.png);
+    background-image: url(logoo/season%20finale%202.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -150,7 +150,7 @@ body {
     font-size: 20px;
 }
 #hero button{
-    background-image: url(img/logoo/driverless-car-delivering-groceries-ikon-images.jpg);
+    background-image: url(logoo/driverless-car-delivering-groceries-ikon-images.jpg);
     background-color: transparent;
     color: white;
     border: 0;
@@ -282,7 +282,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(img/logoo/design1.png);
+    background-image: url(logoo/design1.png);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -320,7 +320,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url(img/logoo/buy%20and%20get%20free.png);
+    background-image: url(logoo/buy%20and%20get%20free.png);
     min-width: 580px;
     height: 40vh;
     background-size: cover;
@@ -329,7 +329,7 @@ body {
     
 }
 #sm-banner .banner-box2{
-    background-image: url(img/logoo/but%20and%20get%20free%202.png);
+    background-image: url(logoo/but%20and%20get%20free%202.png);
 }
 #sm-banner h4{
     color: white;
@@ -364,7 +364,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url(img/logoo/Season%20finale4.png);
+    background-image: url(logoo/Season%20finale4.png);
     min-width:30%;
     height: 30vh;
     background-size: cover;
@@ -373,10 +373,10 @@ body {
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url(img/logoo/season%20finale%202.png);
+    background-image: url(logoo/season%20finale%202.png);
 }
 #banner3 .banner-box3{
-    background-image: url(img/logoo/season%20finale%201.png);
+    background-image: url(logoo/season%20finale%201.png);
 }
 #banner3 h2{
     color: white;
@@ -395,7 +395,7 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center; 
-    background-image: url(img/abc-3523454_1280.jpg);
+    background-image: url(abc-3523454_1280.jpg);
     background-repeat:repeat;
     background-position: 20% 30%;
     background-color: #041e42;
